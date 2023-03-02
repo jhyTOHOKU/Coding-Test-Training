@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[19]:
-
 
 #待ち行列(キュー,queue)の実装
 
